@@ -1,0 +1,53 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.env
+
+# Database files
+*.sqlite3
+*.db
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Secret keys and sensitive information
+*.secret
+*.key
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.komodoproject
+
+# Compiled files and directories
+*.pyo
+*.pyc
+*.pyd
+*.so
+*.out
+*.class
+*.dll
+*.exe
+*.suo
+*.pdb
+*.lib
+*.app
+*.cache
+
+# Environment-specific files
+.envrc
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Django development server
+*.log
